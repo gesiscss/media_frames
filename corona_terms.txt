@@ -1,0 +1,7 @@
+ncov
+cov-19
+covid
+covid-19
+coronavirus
+quarantine
+sars-cov-2
